@@ -395,14 +395,14 @@ done
 
 ```
 ╔══════════════════════════════════════════╗
-║       Hex AI Model Scanner v1.0.0        ║
+║       Hex AI Model Scanner v3.0.0        ║
 ║            by Layerd AI                  ║
 ║       https://hex.layerd.com            ║
 ╚══════════════════════════════════════════╝
 
 Scanning: /models/production
 Mode: Directory
-Scanners: 12 active (including AI/ML metadata)
+Scanners: 30 active (including AI/ML metadata)
 Workers: 4
 
 Scanning 100% [========================================]
@@ -528,17 +528,14 @@ docker run --rm -m 1g -v $(pwd):/scan:ro layerd/hex:latest /scan
 
 ### Documentation
 - Full Documentation: https://hex.layerd.com/docs
-- API Reference: https://hex.layerd.com/docs/api
-- Best Practices: https://hex.layerd.com/docs/best-practices
 
 ### Support Channels
 - Enterprise Support: support@layerd.com
-- GitHub Issues: https://github.com/Layerd-AI/layerd-hex/issues
-- Community Forum: https://community.layerd.com
+- GitHub Issues: https://github.com/Layerd-AI/Hex/issues
 
 ### License
 - Open Source: MIT License
-- Enterprise: Contact sales@layerd.com for commercial licensing
+- Enterprise: Contact hello@layerd.com for commercial licensing
 
 ## Contributing
 
