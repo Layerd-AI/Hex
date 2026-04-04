@@ -12,7 +12,7 @@
 
 **Enterprise-Grade AI/ML Model Security Scanner**
 
-** v3.0.0 Released - 30 Security Scanners | 18 New Advanced AI Security Features**
+**v3.0.0 Released - 30 Security Scanners | 18 New Advanced AI Security Features**
 
 [Website](https://hex.layerd.com) | [GitHub](https://github.com/Layerd-AI/layerd-hex) | [Support](mailto:support@layerd.com) | [Documentation](https://hex.layerd.com/docs) | [Release Notes](./RELEASES.md)
 
